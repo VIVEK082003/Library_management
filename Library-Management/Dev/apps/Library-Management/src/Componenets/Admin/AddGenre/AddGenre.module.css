@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.addgeneres{
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    min-height: 80vh;
+}
+
+
+.addgenereswrapper{
+    width: 50%;
+    background: rgba(37, 105, 157);
+    border-radius: 10px;
+    margin-top: 15px;
+    color:#fff;
+}
+
+.addgenereswrapper .addgeneresformbox{
+    width: 100%;
+    padding: 5%;
+}
+
+form h1{
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+form .addgeneresinputbox{
+    margin: 15px 0px;
+}
+
+.addgeneresinputbox span{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.addgeneresinputbox input,.addgeneresinputbox select{
+    width: 100%;
+    height:100%;
+    color:#fff;
+    background: transparent;
+    border: none;
+    outline:none;
+    border: 2px solid rgba(255,255,255,.2);
+    border-radius:2rem;
+    margin-top: 8px;
+    padding:15px;
+    appearance: none;
+}
+
+.addgeneresinputbox select option{
+    background: #000;
+    border:none;
+}
+
+.addgeneresinputbox select option:hover{
+    background: #000;
+    border:none;
+}
+
+.addgeneresinputbox input::placeholder {
+    color: #fff;
+}
+
+form button{
+    width: 100%;
+    padding: 15px 0px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 700;
+}
+
+form button:hover{
+    background-color : #ccc;
+}
+
+.addgeneresforgot{
+    text-align: center;
+    margin-top: 30px;
+}
+.addgeneresforgot >span{
+    color : #fff;
+}
+.addgeneresforgot >span:hover{
+    color : #ccc;
+    cursor: pointer;
+}
+
+.addgeneresbtn{
+    margin-top: 20px;
+}
+

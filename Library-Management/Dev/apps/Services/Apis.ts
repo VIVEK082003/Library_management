@@ -1,0 +1,1 @@
+export const loginapi='http://localhost:14668/api/Users/Login'

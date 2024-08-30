@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.addbooks{
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+
+
+.addbookswrapper{
+    background: rgba(37, 105, 157);
+    color:#fff;
+}
+
+.addbookswrapper .addbooksformbox{
+    width: 100%;
+    padding: 5%;
+}
+
+form h1{
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+form .addbooksinputbox{
+    margin: 12px 0px;
+}
+
+.addbooksinputbox span{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.addbooksinputbox input{
+    width: 100%;
+    height:100%;
+    color:#fff;
+    background: transparent;
+    border: none;
+    outline:none;
+    border: 2px solid rgba(255,255,255,.2);
+    border-radius:2rem;
+    margin-top: 8px;
+    padding:20px;
+}
+
+.addbooksinputbox input::placeholder {
+    color: #fff;
+}
+
+form button{
+    width: 100%;
+    padding: 20px 0px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 700;
+}
+
+form button:hover{
+    background-color : #ccc;
+}
+
+.addbooksforgot{
+    text-align: center;
+    margin-top: 30px;
+}
+.addbooksforgot >span{
+    color : #fff;
+}
+.addbooksforgot >span:hover{
+    color : #ccc;
+    cursor: pointer;
+}
+
+.addbooksbtn{
+    margin-top: 20px;
+}
+

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "T888YwDh38PowB3V2q9O13YpjYuRmU/1Gt6Wf+XJa0pKt0v060sWf6qlT1PDzBFuvHTQW6ZAMID39qBog4otGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Lms.Dto\\Lms.Dto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Owner\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Owner\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

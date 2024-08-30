@@ -1,0 +1,129 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    background-color: rgba(37, 105, 157);
+    color: white;
+    padding: 10px 0;
+  }
+  
+  .tableContainer {
+    margin-top: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .tableContainer h2 {
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .table th:nth-child(1),
+  .table td:nth-child(1) {
+    width: 16.6666%;
+  }
+  
+  .table th:nth-child(2),
+  .table td:nth-child(2) {
+    width: 16.6666%;
+  }
+  
+  .table th:nth-child(3),
+  .table td:nth-child(3) {
+    width: 16.6666%;
+  }
+  
+  .table th:nth-child(4),
+  .table td:nth-child(4) {
+    width: 16.6666%;
+  }
+  
+  .table th:nth-child(5),
+  .table td:nth-child(5) {
+    width: 16.6666%;
+  }
+  
+  .table th:nth-child(6),
+  .table td:nth-child(6) {
+    width: 16.6666%;
+  }
+  
+  .table th {
+    background-color: #f4f4f4;
+  }
+  
+  .edit-button,
+  .delete-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .edit-button {
+    color: #2196f3;
+  }
+  
+  .edit-button:hover {
+    color: #1976d2;
+  }
+  
+  .delete-button {
+    color: #f44336;
+  }
+  
+  .delete-button:hover {
+    color: #d32f2f;
+  }
+  
+  @media (max-width: 768px) {
+    .table thead {
+      display: none;
+    }
+  
+    .table,
+    .table tbody,
+    .table tr,
+    .table td {
+      display: block;
+      width: 100%;
+    }
+  
+    .table tr {
+      margin-bottom: 15px;
+    }
+  
+    .table td {
+      text-align: right;
+      padding-left: 50%;
+      position: relative;
+    }
+  
+    .table td::before {
+      content: attr(data-label);
+      position: absolute;
+      left: 0;
+      width: 50%;
+      padding-left: 15px;
+      font-weight: bold;
+      text-align: left;
+    }
+  }
+  

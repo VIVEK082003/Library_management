@@ -1,0 +1,6 @@
+@ReactMonorepo.Backend.Librarywebapi.Library_HostAddress = http://localhost:5277
+
+GET {{ReactMonorepo.Backend.Librarywebapi.Library_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
