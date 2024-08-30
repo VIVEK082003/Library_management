@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.LoginPage{
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(../../../Library-Management/src/assets/bg2.jpg);
+}
+
+
+.wrapper{
+    width: 30%;
+    height: 70%;
+    background: rgba(37, 105, 157);
+    border-radius: 10px;
+    color:#fff;
+}
+
+.wrapper .formbox{
+    width: 100%;
+    padding: 10%;
+}
+
+form h1{
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+}
+
+form .inputbox{
+    position: relative;
+    width:100%;
+    margin: 50px 0px;
+    height: 60px;
+}
+
+.inputbox input{
+    width: 100%;
+    height:100%;
+    color:#fff;
+    background: transparent;
+    border: none;
+    outline:none;
+    border: 2px solid rgba(255,255,255,.2);
+    border-radius:2rem;
+    padding:20px;
+}
+
+.inputbox input::placeholder {
+    color: #fff;
+}
+
+.inputbox .icon{
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+form button{
+    width: 100%;
+    padding: 10px 0px;
+    background: #fff;
+    border:none;
+    outline: none;
+    border-radius: 2rem;
+    box-shadow: 0 0 10px rgba(0 , 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 700;
+}
+
+form button:hover{
+    background-color : #ccc;
+}
+
+.forgot{
+    text-align: center;
+    margin-top: 30px;
+}
+.forgot >span{
+    color : #fff;
+}
+.forgot >span:hover{
+    color : #ccc;
+    cursor: pointer;
+}
+.inputbox {
+    position: relative;
+  }
+
+.inputbox.error input {
+    border-color: red;
+  }
+  
+  .inputbox.error .error {
+    display: block;
+    color: red;
+  }
+  
+

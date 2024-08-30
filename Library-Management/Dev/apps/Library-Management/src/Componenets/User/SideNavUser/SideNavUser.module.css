@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.dashboardContainer {
+  height: 100vh;
+}
+
+.mainlogo {
+  width: 20%;
+}
+
+.navItem {
+  padding-left: 15px;
+}
+
+.navItem:hover {
+  background: rgb(18, 59, 91);
+}
+
+.navItem svg, .navItem span {
+  font-size: 20px;
+}
+
+.navItem svg {
+  color: #fff;
+}
+
+.navLink:hover {
+  cursor: pointer;
+}
+
+.sidebar {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  padding-top: 20px;
+  background: rgba(37, 105, 157);
+  padding: 0px;
+}
+
+.navLink {
+  font-weight: 500;
+  color: #fff;
+}
+
+.navLink:hover {
+  color: #f8f9fa;
+}
+
+.navLinkActive {
+  color: #f8f9fa;
+}
+
+.mainContent {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.hbtn {
+  background: rgba(37, 105, 157);
+  color: #fff;
+  font-weight: 700;
+}
+
+.hbtn:hover {
+  background: rgba(37, 105, 157);
+  color: #fff;
+}
+
+.card {
+  border-radius: 5px;
+}
+
+.dashboardbtn {
+  top: 2%;
+  right: 1%;
+}
+
+.iconnav{
+    font-size: 30px;
+}
+
+.signoutbutton{
+    background: transparent;
+    border: none;
+}

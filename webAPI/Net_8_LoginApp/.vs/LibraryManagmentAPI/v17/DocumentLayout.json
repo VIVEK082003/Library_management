@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7840D1-F98B-4112-9D6C-4FBAF69C420F}|Library-ManagementAPI.csproj|c:\\users\\owner\\desktop\\desk\\webapi\\net_8_loginapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7840D1-F98B-4112-9D6C-4FBAF69C420F}|Library-ManagementAPI.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7840D1-F98B-4112-9D6C-4FBAF69C420F}|Library-ManagementAPI.csproj|c:\\users\\owner\\desktop\\desk\\webapi\\net_8_loginapp\\controllers\\requestbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7840D1-F98B-4112-9D6C-4FBAF69C420F}|Library-ManagementAPI.csproj|solutionrelative:controllers\\requestbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9531DF-8B7B-4ED2-86EB-4CBB644E2B1B}|..\\Lms.Dto\\Lms.Dto.csproj|c:\\users\\owner\\desktop\\desk\\webapi\\lms.dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C9531DF-8B7B-4ED2-86EB-4CBB644E2B1B}|..\\Lms.Dto\\Lms.Dto.csproj|c:\\users\\owner\\desktop\\desk\\webapi\\lms.dto\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E7840D1-F98B-4112-9D6C-4FBAF69C420F}|Library-ManagementAPI.csproj|c:\\users\\owner\\desktop\\desk\\webapi\\net_8_loginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E7840D1-F98B-4112-9D6C-4FBAF69C420F}|Library-ManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Dto\\RequestBookDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080601_UpdateMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605064741_AddBookRequestStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605062334_AddRequestBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Service\\Service\\RequestBookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Models\\RequestBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Dto\\RegistrationDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Service\\Service\\BookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080003_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\LibraryManagment.Contracts\\Repository\\IRequestBookService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080648_updatedmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\LmsContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestBook.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Models\\RequestBook.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\Models\\RequestBook.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Models\\RequestBook.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\Models\\RequestBook.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:03:48.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Dto\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Dto\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Dto\\RegistrationDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Dto\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:39:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Service\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Service\\Service\\BookService.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Service\\Service\\BookService.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Service\\Service\\BookService.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAuwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:13:00.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240605080003_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080003_initial migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605080003_initial migration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080003_initial migration.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605080003_initial migration.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:00:04.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestBookController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\Controllers\\RequestBookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RequestBookController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\Controllers\\RequestBookController.cs",
+              "RelativeToolTip": "Controllers\\RequestBookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:38:07.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwFUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:30:27.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Lms.Dto\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "..\\Lms.Dto\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Lms.Dto\\RegistrationDTO.cs",
+              "RelativeToolTip": "..\\Lms.Dto\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:14:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Lms.Dto\\BookDTO.cs",
+              "RelativeDocumentMoniker": "..\\Lms.Dto\\BookDTO.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Lms.Dto\\BookDTO.cs",
+              "RelativeToolTip": "..\\Lms.Dto\\BookDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:14:06.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\desk\\webAPI\\Net_8_LoginApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:41:44.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240605080601_UpdateMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080601_UpdateMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605080601_UpdateMigration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080601_UpdateMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605080601_UpdateMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:06:01.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestBookDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Dto\\RequestBookDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Dto\\RequestBookDTO.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Dto\\RequestBookDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Dto\\RequestBookDTO.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:38:52.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Service\\Service\\RequestBookService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Service\\Service\\RequestBookService.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Service\\Service\\RequestBookService.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Service\\Service\\RequestBookService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:35:30.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRequestBookService.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\LibraryManagment.Contracts\\Repository\\IRequestBookService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\LibraryManagment.Contracts\\Repository\\IRequestBookService.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\LibraryManagment.Contracts\\Repository\\IRequestBookService.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\LibraryManagment.Contracts\\Repository\\IRequestBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:34:34.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240605080648_updatedmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080648_updatedmigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605080648_updatedmigration.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605080648_updatedmigration.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605080648_updatedmigration.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T08:06:48.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240605064741_AddBookRequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605064741_AddBookRequestStatus.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605064741_AddBookRequestStatus.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605064741_AddBookRequestStatus.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605064741_AddBookRequestStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:47:41.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LmsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\LmsContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\LmsContext.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\LmsContext.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\LmsContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:21:00.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240605062334_AddRequestBook.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605062334_AddRequestBook.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605062334_AddRequestBook.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\webAPI\\Lms.Data\\Migrations\\20240605062334_AddRequestBook.cs",
+              "RelativeToolTip": "..\\..\\..\\webAPI\\Lms.Data\\Migrations\\20240605062334_AddRequestBook.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:23:34.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

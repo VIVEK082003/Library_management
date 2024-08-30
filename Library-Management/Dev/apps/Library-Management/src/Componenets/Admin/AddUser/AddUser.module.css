@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+.modal-body {
+    padding: 0 !important;
+}
+
+.adduser {
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+}
+
+.adduserwrapper {
+    background: #25699d;
+    color: #fff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.adduserwrapper .adduserformbox {
+    width: 100%;
+    padding: 5%;
+}
+
+form h1 {
+    text-align: center;
+    letter-spacing: 5px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+form .adduserinputbox {
+    margin: 12px 0;
+}
+
+.adduserinputbox span {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.adduserinputbox input {
+    width: 100%;
+    padding: 20px;
+    color: #fff;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    border-radius: 2rem;
+    margin-top: 8px;
+    outline: none;
+}
+
+.adduserinputbox input::placeholder {
+    color: #fff;
+}
+
+.adduserinputbox input[type="checkbox"] {
+    width: auto;
+    height: auto;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+form button {
+    width: 100%;
+    padding: 20px 0;
+    background: #fff;
+    border: none;
+    border-radius: 2rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 700;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #ccc;
+}
+
+.adduserforgot {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.adduserforgot > span {
+    color: #fff;
+}
+
+.adduserforgot > span:hover {
+    color: #ccc;
+    cursor: pointer;
+}
